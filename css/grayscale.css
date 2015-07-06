@@ -33,6 +33,16 @@ html {
     font-size: larger;
 }
 
+.enviro-bg {
+    background: url(../img/enviro-page-bg.jpg) no-repeat bottom center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
 h1,
 h2,
 h3,
