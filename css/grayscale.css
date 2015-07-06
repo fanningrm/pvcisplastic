@@ -27,6 +27,12 @@ html {
     1px 1px 0 #000;  
 }
 
+.enviro-li {
+    text-align:left;
+    padding-bottom: 10px;
+    font-size: larger;
+}
+
 h1,
 h2,
 h3,
