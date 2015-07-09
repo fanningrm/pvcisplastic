@@ -65,6 +65,11 @@ html {
     font-size: smaller;
 }
 
+.false strong,
+.true strong {
+    text-decoration: underline;
+}
+
 .drop-shadow-top {
   box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.4);
 }
