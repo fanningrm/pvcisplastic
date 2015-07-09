@@ -47,6 +47,24 @@ html {
 
 }
 
+.false {
+    color:#c0392b;
+    list-style-type: none;
+}
+
+.true {
+    color:#27ae60;
+    list-style-type: none;
+}
+
+.false a,
+.true a {
+    text-decoration: none !important;
+    font-style: italic;
+    color:inherit;
+    font-size: smaller;
+}
+
 .drop-shadow-top {
   box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.4);
 }
