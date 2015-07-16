@@ -48,17 +48,17 @@ html {
 }
 
 .false {
-    color:#c0392b;
+    color:#99544c;
     list-style-type: none;
 }
-/* Alternate #99544c */
+/* Alternate #c0392b */
 
 .true {
-    color:#27ae60;
+    color:#74ab8b;
     list-style-type: none;
 }
 
-/* Alternate #74ab8b */
+/* Alternate #27ae60 */
 
 .false a,
 .true a {
