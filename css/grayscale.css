@@ -51,11 +51,14 @@ html {
     color:#c0392b;
     list-style-type: none;
 }
+/* Alternate #99544c */
 
 .true {
     color:#27ae60;
     list-style-type: none;
 }
+
+/* Alternate #74ab8b */
 
 .false a,
 .true a {
