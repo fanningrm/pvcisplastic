@@ -2254,10 +2254,14 @@ caption {
   color: #777;
   text-align: left;
 }
-th {
-  text-align: center;
+table.factcheck {
+  background-color: transparent;
 }
-td {
+table.factcheck th {
+  text-align: center;
+  font-weight: bold;
+}
+table.factcheck td {
   text-align: left;
 }
 .table {
