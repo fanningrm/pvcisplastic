@@ -190,6 +190,16 @@ th {
   padding: 0;
   text-align: left;
 }
+table.factcheck {
+  background-color: transparent;
+}
+table.factcheck th {
+  text-align: center;
+  font-weight: bold;
+}
+table.factcheck td {
+  text-align: left;
+}
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -2252,16 +2262,6 @@ caption {
   padding-top: 8px;
   padding-bottom: 8px;
   color: #777;
-  text-align: left;
-}
-table.factcheck {
-  background-color: transparent;
-}
-table.factcheck th {
-  text-align: center;
-  font-weight: bold;
-}
-table.factcheck td {
   text-align: left;
 }
 .table {
