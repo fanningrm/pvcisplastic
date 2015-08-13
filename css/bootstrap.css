@@ -183,7 +183,6 @@ optgroup {
 table {
   border-spacing: 0;
   border-collapse: collapse;
-  text-align: left;
 }
 td,
 th {
@@ -192,6 +191,7 @@ th {
 }
 table.factcheck {
   background-color: transparent;
+  width: 100%;
 }
 table.factcheck th {
   text-align: center;
